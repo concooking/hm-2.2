@@ -5,7 +5,7 @@ public class Main {
         byte a = 8;
         System.out.println("Значение переменной а с типом byte равно " + a);
         short b = 549;
-        System.out.println("Значение переменной b с типом byte равно " + b);
+        System.out.println("Значение переменной b с типом short равно " + b);
         int c = 11;
         System.out.println("Значение переменной c с типом int равно " + c);
         long d = 987678967849L;
